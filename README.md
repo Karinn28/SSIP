@@ -1,2 +1,0 @@
-# SSIP
-Project
